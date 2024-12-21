@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|c:\\users\\keany\\programacion ii c# visual studio\\ultimo parcial\\parcialfinal\\parcialfinal\\capavista\\proyecto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|solutionrelative:parcialfinal\\capavista\\proyecto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|c:\\users\\keany\\programacion ii c# visual studio\\ultimo parcial\\parcialfinal\\parcialfinal\\capavista\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|solutionrelative:parcialfinal\\capavista\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|c:\\users\\keany\\programacion ii c# visual studio\\ultimo parcial\\parcialfinal\\parcialfinal\\capavista\\empleado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|solutionrelative:parcialfinal\\capavista\\empleado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|c:\\users\\keany\\programacion ii c# visual studio\\ultimo parcial\\parcialfinal\\parcialfinal\\capavista\\asignacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|solutionrelative:parcialfinal\\capavista\\asignacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|c:\\users\\keany\\programacion ii c# visual studio\\ultimo parcial\\parcialfinal\\parcialfinal\\capalogica\\bussiness_asignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|solutionrelative:parcialfinal\\capalogica\\bussiness_asignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|c:\\users\\keany\\programacion ii c# visual studio\\ultimo parcial\\parcialfinal\\parcialfinal\\capalogica\\bussiness_proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|solutionrelative:parcialfinal\\capalogica\\bussiness_proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|c:\\users\\keany\\programacion ii c# visual studio\\ultimo parcial\\parcialfinal\\parcialfinal\\capalogica\\bussiness_empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|solutionrelative:parcialfinal\\capalogica\\bussiness_empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|c:\\users\\keany\\programacion ii c# visual studio\\ultimo parcial\\parcialfinal\\parcialfinal\\capamodelo\\cls_empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|solutionrelative:parcialfinal\\capamodelo\\cls_empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|c:\\users\\keany\\programacion ii c# visual studio\\ultimo parcial\\parcialfinal\\parcialfinal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|solutionrelative:parcialfinal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|c:\\users\\keany\\programacion ii c# visual studio\\ultimo parcial\\parcialfinal\\parcialfinal\\capavista\\empleado.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|solutionrelative:parcialfinal\\capavista\\empleado.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|c:\\users\\keany\\programacion ii c# visual studio\\ultimo parcial\\parcialfinal\\parcialfinal\\capalogica\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|solutionrelative:parcialfinal\\capalogica\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|c:\\users\\keany\\programacion ii c# visual studio\\ultimo parcial\\parcialfinal\\parcialfinal\\capavista\\asignacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|solutionrelative:parcialfinal\\capavista\\asignacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|c:\\users\\keany\\programacion ii c# visual studio\\ultimo parcial\\parcialfinal\\parcialfinal\\capamodelo\\cls_asignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|solutionrelative:parcialfinal\\capamodelo\\cls_asignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|c:\\users\\keany\\programacion ii c# visual studio\\ultimo parcial\\parcialfinal\\parcialfinal\\capavista\\proyecto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|solutionrelative:parcialfinal\\capavista\\proyecto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|c:\\users\\keany\\programacion ii c# visual studio\\ultimo parcial\\parcialfinal\\parcialfinal\\capamodelo\\cls_proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|solutionrelative:parcialfinal\\capamodelo\\cls_proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|c:\\users\\keany\\programacion ii c# visual studio\\ultimo parcial\\parcialfinal\\parcialfinal\\plantillamenu.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|solutionrelative:parcialfinal\\plantillamenu.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|c:\\users\\keany\\programacion ii c# visual studio\\ultimo parcial\\parcialfinal\\parcialfinal\\css\\menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3550B8EA-34EB-4C75-AB71-A24469016915}|ParcialFinal\\ParcialFinal.csproj|solutionrelative:parcialfinal\\css\\menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bussiness_Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaLogica\\Bussiness_Empleado.cs",
+              "RelativeDocumentMoniker": "ParcialFinal\\CapaLogica\\Bussiness_Empleado.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaLogica\\Bussiness_Empleado.cs",
+              "RelativeToolTip": "ParcialFinal\\CapaLogica\\Bussiness_Empleado.cs",
+              "ViewState": "AgIAAKkAAACArGDGeMEewLEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:13:36.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bussiness_Asignacion.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaLogica\\Bussiness_Asignacion.cs",
+              "RelativeDocumentMoniker": "ParcialFinal\\CapaLogica\\Bussiness_Asignacion.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaLogica\\Bussiness_Asignacion.cs",
+              "RelativeToolTip": "ParcialFinal\\CapaLogica\\Bussiness_Asignacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:14:13.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bussiness_Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaLogica\\Bussiness_Proyecto.cs",
+              "RelativeDocumentMoniker": "ParcialFinal\\CapaLogica\\Bussiness_Proyecto.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaLogica\\Bussiness_Proyecto.cs",
+              "RelativeToolTip": "ParcialFinal\\CapaLogica\\Bussiness_Proyecto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:13:59.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Asignacion.aspx",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaVista\\Asignacion.aspx",
+              "RelativeDocumentMoniker": "ParcialFinal\\CapaVista\\Asignacion.aspx",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaVista\\Asignacion.aspx",
+              "RelativeToolTip": "ParcialFinal\\CapaVista\\Asignacion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-21T06:11:28.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleado.aspx",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaVista\\Empleado.aspx",
+              "RelativeDocumentMoniker": "ParcialFinal\\CapaVista\\Empleado.aspx",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaVista\\Empleado.aspx",
+              "RelativeToolTip": "ParcialFinal\\CapaVista\\Empleado.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-21T06:07:31.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inicio.aspx",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaVista\\Inicio.aspx",
+              "RelativeDocumentMoniker": "ParcialFinal\\CapaVista\\Inicio.aspx",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaVista\\Inicio.aspx",
+              "RelativeToolTip": "ParcialFinal\\CapaVista\\Inicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-21T06:06:44.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Proyecto.aspx",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaVista\\Proyecto.aspx",
+              "RelativeDocumentMoniker": "ParcialFinal\\CapaVista\\Proyecto.aspx",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaVista\\Proyecto.aspx",
+              "RelativeToolTip": "ParcialFinal\\CapaVista\\Proyecto.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-21T06:08:33.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cls_Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaModelo\\Cls_Empleado.cs",
+              "RelativeDocumentMoniker": "ParcialFinal\\CapaModelo\\Cls_Empleado.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaModelo\\Cls_Empleado.cs",
+              "RelativeToolTip": "ParcialFinal\\CapaModelo\\Cls_Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:12:21.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\Web.config",
+              "RelativeDocumentMoniker": "ParcialFinal\\Web.config",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\Web.config",
+              "RelativeToolTip": "ParcialFinal\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-21T06:09:11.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DBConn.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaLogica\\DBConn.cs",
+              "RelativeDocumentMoniker": "ParcialFinal\\CapaLogica\\DBConn.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaLogica\\DBConn.cs",
+              "RelativeToolTip": "ParcialFinal\\CapaLogica\\DBConn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:09:41.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Empleado.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaVista\\Empleado.aspx.cs",
+              "RelativeDocumentMoniker": "ParcialFinal\\CapaVista\\Empleado.aspx.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaVista\\Empleado.aspx.cs",
+              "RelativeToolTip": "ParcialFinal\\CapaVista\\Empleado.aspx.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAvwGoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:16:22.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cls_Asignacion.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaModelo\\Cls_Asignacion.cs",
+              "RelativeDocumentMoniker": "ParcialFinal\\CapaModelo\\Cls_Asignacion.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaModelo\\Cls_Asignacion.cs",
+              "RelativeToolTip": "ParcialFinal\\CapaModelo\\Cls_Asignacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:12:46.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cls_Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaModelo\\Cls_Proyecto.cs",
+              "RelativeDocumentMoniker": "ParcialFinal\\CapaModelo\\Cls_Proyecto.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaModelo\\Cls_Proyecto.cs",
+              "RelativeToolTip": "ParcialFinal\\CapaModelo\\Cls_Proyecto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:12:35.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Proyecto.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaVista\\Proyecto.aspx.cs",
+              "RelativeDocumentMoniker": "ParcialFinal\\CapaVista\\Proyecto.aspx.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaVista\\Proyecto.aspx.cs",
+              "RelativeToolTip": "ParcialFinal\\CapaVista\\Proyecto.aspx.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAUwGcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:18:10.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Asignacion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaVista\\Asignacion.aspx.cs",
+              "RelativeDocumentMoniker": "ParcialFinal\\CapaVista\\Asignacion.aspx.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CapaVista\\Asignacion.aspx.cs",
+              "RelativeToolTip": "ParcialFinal\\CapaVista\\Asignacion.aspx.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAADgv1gAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:19:09.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Menu.css",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CSS\\Menu.css",
+              "RelativeDocumentMoniker": "ParcialFinal\\CSS\\Menu.css",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\CSS\\Menu.css",
+              "RelativeToolTip": "ParcialFinal\\CSS\\Menu.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-21T06:06:16.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlantillaMenu.Master",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\PlantillaMenu.Master",
+              "RelativeDocumentMoniker": "ParcialFinal\\PlantillaMenu.Master",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\ULTIMO PARCIAL\\ParcialFinal\\ParcialFinal\\PlantillaMenu.Master",
+              "RelativeToolTip": "ParcialFinal\\PlantillaMenu.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-21T06:04:06.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
